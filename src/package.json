@@ -4,7 +4,7 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-     "homepage":"https://lucy-nube.github.io/CSS-Elearning-Landingpage-responsive-",
+     "homepage":"https://lucy-nube.github.io/CSS-Elearning-Landingpage-responsive-/src/index.html",
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview"
